@@ -362,10 +362,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
 ## Trie
 |  |
@@ -392,4 +394,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
