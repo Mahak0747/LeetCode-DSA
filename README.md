@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0292-nim-game) |
 | [0492-construct-the-rectangle](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0492-construct-the-rectangle) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0231-power-of-two) |
 ## Brainteaser
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0231-power-of-two) |
 ## Counting Sort
 |  |
 | ------- |
