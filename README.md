@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0048-rotate-image) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0493-reverse-pairs) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
