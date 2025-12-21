@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0509-fibonacci-number) |
