@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0283-move-zeroes) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
@@ -214,12 +216,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0148-sort-list) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
