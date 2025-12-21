@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0925-long-pressed-name) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
+| [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Brainteaser
 |  |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1518-water-bottles) |
