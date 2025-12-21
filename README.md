@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1920-build-array-from-permutation) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 ## String
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1925-count-square-sum-triples) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Recursion
 |  |
