@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
