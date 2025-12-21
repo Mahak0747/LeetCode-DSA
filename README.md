@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0274-h-index) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
