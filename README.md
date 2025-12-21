@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0493-reverse-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1518-water-bottles) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
