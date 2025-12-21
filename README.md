@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0062-unique-paths) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
