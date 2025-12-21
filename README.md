@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0292-nim-game) |
 | [0492-construct-the-rectangle](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0507-perfect-number) |
