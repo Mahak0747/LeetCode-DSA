@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
