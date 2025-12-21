@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1512-number-of-good-pairs) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0493-reverse-pairs) |
