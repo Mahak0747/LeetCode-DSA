@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0707-design-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -521,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
