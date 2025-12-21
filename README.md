@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0056-merge-intervals) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
