@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
