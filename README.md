@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0062-unique-paths) |
 | [0492-construct-the-rectangle](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0507-perfect-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
