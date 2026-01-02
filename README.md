@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -555,5 +556,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0707-design-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
