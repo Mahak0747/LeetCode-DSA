@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1487-making-file-names-unique](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1487-making-file-names-unique) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Brainteaser
