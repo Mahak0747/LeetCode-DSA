@@ -7,7 +7,7 @@ class Solution {
         int ans=0;
         boolean is=false;
         for (int count : arr) {
-            ans += (count / 2) * 2; // add pairs
+            ans += (count / 2) * 2; 
             if (count % 2 == 1) {
                 is = true;
             }
