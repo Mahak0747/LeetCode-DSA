@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
