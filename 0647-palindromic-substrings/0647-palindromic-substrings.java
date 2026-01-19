@@ -1,4 +1,12 @@
 class Solution {
+    private boolean check(String s,int l,int u){
+        while(l<=u){
+            if(s.charAt(l)!=s.charAt(u))return false;
+            l++;
+            u--;
+        }
+        return true;
+    }
     public int countSubstrings(String s) {
         int n=s.length();
         int ans=0;
@@ -8,13 +16,5 @@ class Solution {
             }
         }
         return ans;
-    }
-    private boolean check(String s,int l,int u){
-        while(l<=u){
-            if(s.charAt(l)!=s.charAt(u))return false;
-            l++;
-            u--;
-        }
-        return true;
     }
 }
