@@ -10,7 +10,7 @@ class Solution {
         return ans;
     }
     private boolean check(String s,int l,int u){
-        while(l<u){
+        while(l<=u){
             if(s.charAt(l)!=s.charAt(u))return false;
             l++;
             u--;
