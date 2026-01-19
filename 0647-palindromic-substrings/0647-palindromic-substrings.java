@@ -3,14 +3,18 @@ class Solution {
         int n=s.length();
         int ans=0;
         for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j <= n; j++) {   
-                String sub = s.substring(i, j);
-                StringBuilder sb = new StringBuilder(sub);
-                if (sub.equals(sb.reverse().toString())) {
-                    ans++;
-                }
+            for (int j = i; j < n; j++) {   
+                if(check(s,i,j))ans++;
             }
         }
         return ans;
+    }
+    private static boolean check(String s,int l,int u){
+        while(l<u){
+            if(s.charAt(l)!=s.charAt(u))return false;
+            l++;
+            u--;
+        }
+        return true;
     }
 }
