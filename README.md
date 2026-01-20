@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0860-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1975-maximum-matrix-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
