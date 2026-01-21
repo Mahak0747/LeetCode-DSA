@@ -12,8 +12,7 @@ class Solution {
             i++;
         }
         while(i<s.length() && s.charAt(i)>='0'&&s.charAt(i)<='9'){
-            ans*=10;
-            ans+=s.charAt(i)-'0';
+            ans = ans * 10 + (s.charAt(i) - '0');
             if (sign == 1 && ans > Integer.MAX_VALUE)
                 return Integer.MAX_VALUE;
             if (sign == -1 && -ans < Integer.MIN_VALUE)
