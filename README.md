@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3803-count-residue-prefixes) |
 | [3804-number-of-centered-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3804-number-of-centered-subarrays) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3798-largest-even-number) |
