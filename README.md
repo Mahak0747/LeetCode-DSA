@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3804-number-of-centered-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3804-number-of-centered-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 | [3803-count-residue-prefixes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3803-count-residue-prefixes) |
+| [3804-number-of-centered-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3804-number-of-centered-subarrays) |
 ## String
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1925-count-square-sum-triples) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3722-lexicographically-smallest-string-after-reverse) |
+| [3804-number-of-centered-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3804-number-of-centered-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
