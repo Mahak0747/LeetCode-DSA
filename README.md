@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3799-word-squares-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3799-word-squares-ii) |
 ## Math
 |  |
