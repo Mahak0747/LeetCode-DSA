@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3790-smallest-all-ones-multiple](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3790-smallest-all-ones-multiple) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3803-count-residue-prefixes) |
 | [3804-number-of-centered-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3804-number-of-centered-subarrays) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3765-complete-prime-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3790-smallest-all-ones-multiple](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3790-smallest-all-ones-multiple) |
 ## Prefix Sum
 |  |
 | ------- |
