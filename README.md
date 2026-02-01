@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0409-longest-palindrome) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -749,5 +753,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0037-sudoku-solver) |
+| [0257-binary-tree-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [3799-word-squares-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3799-word-squares-ii) |
 <!---LeetCode Topics End-->
