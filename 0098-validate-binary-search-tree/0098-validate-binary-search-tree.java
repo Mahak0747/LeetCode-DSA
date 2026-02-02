@@ -14,21 +14,13 @@
  * }
  */
 class Solution {
-    static ArrayList<Integer> list;
-    private static void inOrder(TreeNode root){
-        if(root==null)return;
-        inOrder(root.left);
-        list.add(root.val);
-        inOrder(root.right);
+    private static boolean find(TreeNode root,TreeNode min,TreeNode max){
+        if(root==null)return true;
+        else if(min!=null&&min.val>=root.val)return false;
+        else if(max!=null&&max.val<=root.val)return false;
+        return find(root.left, min, root)&& find(root.right, root, max);
     }
     public boolean isValidBST(TreeNode root) {
-        list=new ArrayList<>();
-        inOrder(root);
-        for(int i=0; i<list.size()-1; i++){
-            if(list.get(i)>=list.get(i+1)){
-                return false;
-            }
-        }
-        return true;
+        return find(root,null,null);
     }
 }
