@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3637-trionic-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3637-trionic-array-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3769-sort-integers-by-binary-reflection) |
