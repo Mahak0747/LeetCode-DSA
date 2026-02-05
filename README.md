@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0561-array-partition) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
