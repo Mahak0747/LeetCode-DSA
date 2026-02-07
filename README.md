@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1200-minimum-absolute-difference) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -792,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
