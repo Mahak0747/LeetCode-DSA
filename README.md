@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
+| [3719-longest-balanced-subarray-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3790-smallest-all-ones-multiple](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3790-smallest-all-ones-multiple) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-score-of-a-split](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3788-maximum-score-of-a-split) |
 ## Dynamic Programming
 |  |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Binary Indexed Tree
 |  |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
