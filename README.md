@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3794-reverse-string-prefix) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3765-complete-prime-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3765-complete-prime-number) |
 | [3799-word-squares-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3799-word-squares-ii) |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3713-longest-balanced-substring-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Recursion
 |  |
 | ------- |
