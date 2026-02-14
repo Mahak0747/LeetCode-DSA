@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0509-fibonacci-number) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [3799-word-squares-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3799-word-squares-ii) |
 ## Bucket Sort
