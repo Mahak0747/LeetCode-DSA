@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0925-long-pressed-name](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0925-long-pressed-name) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0799-champagne-tower](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0799-champagne-tower) |
 | [1137-n-th-tribonacci-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0860-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0976-largest-perimeter-triangle) |
