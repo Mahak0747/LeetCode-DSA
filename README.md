@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
