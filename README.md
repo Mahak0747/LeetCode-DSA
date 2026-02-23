@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1487-making-file-names-unique](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1487-making-file-names-unique) |
 | [1512-number-of-good-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1108-defanging-an-ip-address) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1487-making-file-names-unique](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1487-making-file-names-unique) |
 | [1528-shuffle-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1528-shuffle-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Brainteaser
 |  |
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -876,4 +880,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
