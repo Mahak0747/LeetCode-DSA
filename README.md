@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1528-shuffle-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1678-goal-parser-interpretation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1678-goal-parser-interpretation) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
