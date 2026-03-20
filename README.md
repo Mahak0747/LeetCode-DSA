@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3765-complete-prime-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3765-complete-prime-number) |
