@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3799-word-squares-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3799-word-squares-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3804-number-of-centered-subarrays) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-score-of-a-split](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3788-maximum-score-of-a-split) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3862-find-the-smallest-balanced-index) |
 ## Dynamic Programming
 |  |
 | ------- |
