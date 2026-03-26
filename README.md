@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [0925-long-pressed-name](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0925-long-pressed-name) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -803,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
