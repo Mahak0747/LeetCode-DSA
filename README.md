@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3790-smallest-all-ones-multiple) |
+| [3848-check-digitorial-permutation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3848-check-digitorial-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3848-check-digitorial-permutation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3848-check-digitorial-permutation) |
 ## Recursion
 |  |
 | ------- |
