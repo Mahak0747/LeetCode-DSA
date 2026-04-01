@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2810-faulty-keyboard](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2810-faulty-keyboard) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2810-faulty-keyboard](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2810-faulty-keyboard) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
