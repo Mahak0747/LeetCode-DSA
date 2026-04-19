@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1975-maximum-matrix-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
