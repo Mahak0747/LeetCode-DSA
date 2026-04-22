@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## String Matching
 |  |
 | ------- |
