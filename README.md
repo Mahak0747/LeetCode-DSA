@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1470-shuffle-the-array) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0867-transpose-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -831,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Trie
 |  |
@@ -1022,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0547-number-of-provinces) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
