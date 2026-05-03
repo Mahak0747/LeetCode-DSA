@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2615-sum-of-distances](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
+| [2615-sum-of-distances](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
