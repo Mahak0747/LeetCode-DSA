@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
