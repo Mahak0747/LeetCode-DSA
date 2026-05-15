@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2810-faulty-keyboard) |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Function
 |  |
 | ------- |
