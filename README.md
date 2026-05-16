@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
