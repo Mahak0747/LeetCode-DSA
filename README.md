@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2540-minimum-common-value) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3722-lexicographically-smallest-string-after-reverse) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2615-sum-of-distances](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2615-sum-of-distances) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2540-minimum-common-value](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2540-minimum-common-value) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
