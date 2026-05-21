@@ -177,7 +177,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0922-sort-array-by-parity-ii) |
-| [0941-valid-mountain-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
