@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -925,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
@@ -1120,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
