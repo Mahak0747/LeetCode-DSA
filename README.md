@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0788-rotated-digits) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0867-transpose-matrix) |
@@ -937,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0994-rotting-oranges) |
