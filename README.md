@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3884-first-matching-character-from-both-ends) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Array
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-word-squares-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3799-word-squares-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3804-number-of-centered-subarrays) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3862-find-the-smallest-balanced-index) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
