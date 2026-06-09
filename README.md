@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2126-destroying-asteroids) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3218-minimum-cost-for-cutting-cake-i) |
