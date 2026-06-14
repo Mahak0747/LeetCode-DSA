@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1051-height-checker) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
