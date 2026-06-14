@@ -847,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Brainteaser
 |  |
 | ------- |
