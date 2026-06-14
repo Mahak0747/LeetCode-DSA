@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3765-complete-prime-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3765-complete-prime-number) |
 | [3799-word-squares-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3799-word-squares-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3804-number-of-centered-subarrays) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Brainteaser
 |  |
 | ------- |
