@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Stack
