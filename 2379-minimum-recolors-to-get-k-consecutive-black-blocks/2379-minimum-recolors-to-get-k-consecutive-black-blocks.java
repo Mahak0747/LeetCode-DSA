@@ -1,12 +1,17 @@
 class Solution {
     public int minimumRecolors(String s, int k) {
         int min=s.length();
-        for(int l=0; l<=s.length()-k; l++){
-            int b=0;
-            for(int r=l; r<l+k; r++){
-                if(s.charAt(r)=='W')b++;
+        int l=0; 
+        int r=0;
+        int w=0;
+        while(r<s.length()){
+            if(s.charAt(r)=='W')w++;
+            if(r-l+1>k){
+                if(s.charAt(l)=='W')w--;
+                l++;
             }
-            min=Math.min(min,b);
+            if(r-l+1==k)min=Math.min(min,w);
+            r++;
         }
         return min;
     }
