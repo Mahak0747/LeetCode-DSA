@@ -15,29 +15,25 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> list=new ArrayList<>();
-        if(root==null)return list;
-        Stack<TreeNode> s1=new Stack<>();
-        Stack<TreeNode> s2=new Stack<>();
-        s1.push(root);
-        while(!s1.isEmpty()||!s2.isEmpty()){
-            List<Integer> part=new ArrayList<>();
-            while(!s1.isEmpty()){
-                TreeNode curr=s1.pop();
-                part.add(curr.val);
-                if(curr.left!=null)s2.push(curr.left);
-                if(curr.right!=null)s2.push(curr.right);
+        List<List<Integer>> ans=new ArrayList<>();
+        if(root==null)return ans;
+        Queue<TreeNode> q=new LinkedList<>();
+        q.add(root);
+        boolean ltr=true;
+        while(!q.isEmpty()){
+            int n=q.size();
+            List<Integer> comp=new ArrayList<>();
+            for(int i=0; i<n; i++){
+                TreeNode curr=q.remove();
+                comp.add(curr.val);
+
+                if(curr.left!=null)q.add(curr.left);
+                if(curr.right!=null)q.add(curr.right);
             }
-            list.add(part);
-            part=new ArrayList<>();
-            while(!s2.isEmpty()){
-                TreeNode curr=s2.pop();
-                part.add(curr.val);
-                if(curr.right!=null)s1.push(curr.right);
-                if(curr.left!=null)s1.push(curr.left);
-            }
-            if(part.size()!=0)list.add(part);
+            if(!ltr)Collections.reverse(comp);
+            ans.add(comp);
+            ltr=!ltr;            
         }
-        return list;
+        return ans;
     }
 }
