@@ -14,45 +14,39 @@
  * }
  */
 class Info{
-    TreeNode n;
-    int r;
     int c;
-    public Info(TreeNode n, int r, int c){
-        this.n=n;
-        this.r=r;
+    int r;
+    int n;
+    public Info(int n, int r, int c){
         this.c=c;
+        this.r=r;
+        this.n=n;
     }
 }
 class Solution {
+    static ArrayList<Info> list;
+    private static void preorder(TreeNode root, int r, int c){
+        if(root==null)return;
+        list.add(new Info(root.val, r, c));
+        preorder(root.left,r+1,c-1);
+        preorder(root.right,r+1,c+1);
+    }
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        TreeMap<Integer, TreeMap<Integer, PriorityQueue<Integer>>> map = new TreeMap<>();
-        Queue<Info> q=new LinkedList<>();
-        q.add(new Info(root, 0, 0));
-        while(!q.isEmpty()){
-            Info curr=q.remove();
-            TreeNode n=curr.n;
-            int r=curr.r;
-            int c=curr.c;
-            map.putIfAbsent(c, new TreeMap<>());
-            map.get(c).putIfAbsent(r, new PriorityQueue<>());
-            map.get(c).get(r).add(n.val);
-            if (curr.n.left != null) {
-                q.add(new Info(curr.n.left, r+1, c-1));
-            }
-            if (curr.n.right != null) {
-                q.add(new Info(curr.n.right, r+1, c+1));
-            }
-        }
+        list=new ArrayList<>();
+        preorder(root,0,0);
+        Collections.sort(list,(a,b)->{
+            if (a.c != b.c) return a.c - b.c; // column
+            if (a.r != b.r) return a.r - b.r; // row
+            return a.n - b.n;                   // value
+        });
         List<List<Integer>> ans = new ArrayList<>();
-        for (TreeMap<Integer, PriorityQueue<Integer>> rows : map.values()) {
-            List<Integer> list = new ArrayList<>();
-
-            for (PriorityQueue<Integer> pq : rows.values()) {
-                while (!pq.isEmpty()) {
-                    list.add(pq.remove());
-                }
+        int prevCol = Integer.MIN_VALUE;
+        for (Info curr : list){
+            if (curr.c != prevCol){
+                ans.add(new ArrayList<>());
+                prevCol = curr.c;
             }
-            ans.add(list);
+            ans.get(ans.size() - 1).add(curr.n);
         }
         return ans;
     }
