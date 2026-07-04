@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -1037,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1073,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -1164,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -1200,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
