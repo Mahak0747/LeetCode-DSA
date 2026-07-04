@@ -14,26 +14,16 @@
  * }
  */
 class Solution {
+    static ArrayList<Integer> ans;
+    private static void reversePreorder(TreeNode root,int level){
+        if(root==null)return;
+        if(level==ans.size())ans.add(root.val);
+        reversePreorder(root.right,level+1);
+        reversePreorder(root.left,level+1);
+    }
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> l=new ArrayList<>();
-        if (root == null) return l;
-        Queue<TreeNode> q=new LinkedList<>();
-        q.add(root);
-        int data=root.val;
-        q.add(null);
-        while(!q.isEmpty()){
-            TreeNode curr=q.remove();
-            if(curr==null){
-                l.add(data);
-                if(q.isEmpty())break;
-                else q.add(null);
-            }
-            else{
-                data=curr.val;
-                if(curr.left!=null)q.add(curr.left);
-                if(curr.right!=null)q.add(curr.right);
-            }
-        }
-        return l;
+        ans=new ArrayList<>();
+        reversePreorder(root,0);
+        return ans;
     }
 }
