@@ -25,15 +25,15 @@ class Info{
 }
 class Solution {
     static ArrayList<Info> list;
-    private static void preorder(TreeNode root, int r, int c){
+    private static void postorder(TreeNode root, int r, int c){
         if(root==null)return;
+        postorder(root.left,r+1,c-1);
         list.add(new Info(root.val, r, c));
-        preorder(root.left,r+1,c-1);
-        preorder(root.right,r+1,c+1);
+        postorder(root.right,r+1,c+1);
     }
     public List<List<Integer>> verticalTraversal(TreeNode root) {
         list=new ArrayList<>();
-        preorder(root,0,0);
+        postorder(root,0,0);
         Collections.sort(list,(a,b)->{
             if (a.c != b.c) return a.c - b.c; // column
             if (a.r != b.r) return a.r - b.r; // row
