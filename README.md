@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3340-check-balanced-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3340-check-balanced-string) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3614-process-string-with-special-operations-ii) |
