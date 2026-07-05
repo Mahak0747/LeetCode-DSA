@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [3975-filter-occupied-intervals](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3975-filter-occupied-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3799-word-squares-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3799-word-squares-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [3975-filter-occupied-intervals](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3975-filter-occupied-intervals) |
 ## Math
 |  |
 | ------- |
