@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3862-find-the-smallest-balanced-index](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3862-find-the-smallest-balanced-index) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3803-count-residue-prefixes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3803-count-residue-prefixes) |
 | [3804-number-of-centered-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3804-number-of-centered-subarrays) |
 | [3945-digit-frequency-score](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3945-digit-frequency-score) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
 |  |
 | ------- |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3788-maximum-score-of-a-split](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3788-maximum-score-of-a-split) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3862-find-the-smallest-balanced-index) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-number-of-centered-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3804-number-of-centered-subarrays) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -743,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Stack
 |  |
 | ------- |
