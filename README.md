@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3794-reverse-string-prefix) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3765-complete-prime-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3788-maximum-score-of-a-split](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3788-maximum-score-of-a-split) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3862-find-the-smallest-balanced-index) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
