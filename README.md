@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+| [0495-teemo-attacking](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0506-relative-ranks) |
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
