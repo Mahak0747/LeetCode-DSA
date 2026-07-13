@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1067,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0542-01-matrix) |
@@ -1211,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -1256,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -1290,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0707-design-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
