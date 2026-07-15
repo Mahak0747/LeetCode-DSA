@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -1281,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1492-the-kth-factor-of-n) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Doubly-Linked List
