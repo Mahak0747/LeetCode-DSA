@@ -14,13 +14,12 @@
  * }
  */
 class Solution {
-    private static boolean find(TreeNode root,TreeNode min,TreeNode max){
+    private static boolean check(TreeNode root, long min, long max){
         if(root==null)return true;
-        else if(min!=null&&min.val>=root.val)return false;
-        else if(max!=null&&max.val<=root.val)return false;
-        return find(root.left, min, root)&& find(root.right, root, max);
+        if(root.val<=min||root.val>=max)return false;
+        return check(root.left,min,root.val) && check(root.right,root.val,max);
     }
     public boolean isValidBST(TreeNode root) {
-        return find(root,null,null);
+        return check(root,Long.MIN_VALUE,Long.MAX_VALUE);
     }
 }
