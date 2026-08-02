@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0912-sort-an-array) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -983,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
