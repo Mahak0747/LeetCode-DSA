@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3731-find-missing-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
