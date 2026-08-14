@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3340-check-balanced-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3340-check-balanced-string) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
