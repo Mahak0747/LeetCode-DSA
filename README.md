@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
