@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1487-making-file-names-unique](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1487-making-file-names-unique) |
 | [1512-number-of-good-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1512-number-of-good-pairs) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1975-maximum-matrix-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
@@ -1002,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
