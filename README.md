@@ -1169,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -1333,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -1391,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -1454,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
