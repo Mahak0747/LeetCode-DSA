@@ -1357,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2236-root-equals-sum-of-children](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -1418,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2236-root-equals-sum-of-children](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Number Theory
 |  |
