@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
