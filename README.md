@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0748-shortest-completing-word](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0748-shortest-completing-word) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0709-to-lower-case) |
+| [0721-accounts-merge](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0748-shortest-completing-word](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [0925-long-pressed-name](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0925-long-pressed-name) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0905-sort-array-by-parity](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -1182,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0721-accounts-merge](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -1239,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -1533,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
