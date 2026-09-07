@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0733-flood-fill) |
@@ -936,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0867-transpose-matrix) |
@@ -1191,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0743-network-delay-time) |
@@ -1252,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0743-network-delay-time) |
@@ -1550,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1020-number-of-enclaves) |
