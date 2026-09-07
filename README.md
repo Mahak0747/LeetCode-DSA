@@ -1173,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
@@ -1238,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1557,6 +1559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
@@ -1581,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
