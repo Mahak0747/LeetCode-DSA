@@ -1,11 +1,8 @@
 class Solution {
+    private static final long[] pow1000 = { 1000L, 1000000L, 1000000000L, 1000000000000L, 1000000000000000L, 1000000000000000000L };
     public long countCommas(long n) {
-        long ans=0;
-        long temp=1000;
-        while(temp<=n){
-            ans+=n-temp+1;
-            temp*=1000;
-        }
-        return ans;
+        int k = 0;        
+        for (long p : pow1000) if (n >= p) k++;
+        return k * (n + 1) - (pow1000[k] - 1000) / 999;
     }
 }
