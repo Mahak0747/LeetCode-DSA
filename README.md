@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1137,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting Sort
 |  |
 | ------- |
