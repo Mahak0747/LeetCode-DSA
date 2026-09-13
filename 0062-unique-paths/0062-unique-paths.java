@@ -1,17 +1,16 @@
 class Solution {
     public int uniquePaths(int m, int n) {
-        int[] aboveRow = new int[n];
-        Arrays.fill(aboveRow, 1);
-
-        for (int row = 1; row < m; row++) {
-            int[] currentRow = new int[n];
-            Arrays.fill(currentRow, 1);
-            for (int col = 1; col < n; col++) {
-                currentRow[col] = currentRow[col - 1] + aboveRow[col];
+        int[][] dp=new int[m][n];
+        dp[0][0]=1;
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                int r=0;
+                int d=0;
+                if(i>0)r=dp[i-1][j];
+                if(j>0)d=dp[i][j-1];
+                if (i != 0 || j != 0)dp[i][j]=r+d;
             }
-            aboveRow = currentRow;
         }
-
-        return aboveRow[n - 1];        
+        return dp[m-1][n-1];
     }
 }
