@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1025-divisor-game) |
@@ -1668,4 +1669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
