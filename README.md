@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0941-valid-mountain-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0867-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
