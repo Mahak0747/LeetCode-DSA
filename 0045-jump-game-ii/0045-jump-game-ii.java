@@ -13,9 +13,14 @@ class Solution {
     public int jump(int[] nums) {
         int n=nums.length;
         int[] dp=new int[n];
-        Arrays.fill(dp,-1);
-        dp[0]=0;
-        minJumps(nums,n-1,dp);
-        return dp[n-1];
+        dp[n-1]=0;
+        for(int i=n-2; i>=0; i--){
+            int ans= 100000;
+            for(int j=1; j<=nums[i] && i+j<n; j++){
+                ans = Math.min(ans, 1 + dp[j+i]);
+            }
+            dp[i]=ans;
+        }
+        return dp[0];
     }
 }
