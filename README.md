@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0695-max-area-of-island) |
@@ -979,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
