@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1518-water-bottles) |
@@ -1710,4 +1711,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
