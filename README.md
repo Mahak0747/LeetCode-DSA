@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2615-sum-of-distances](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2742-painting-the-walls](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2742-painting-the-walls) |
 | [2784-check-if-array-is-good](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2784-check-if-array-is-good) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2906-construct-product-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2906-construct-product-matrix) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2742-painting-the-walls](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2742-painting-the-walls) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3524-find-x-value-of-array-i) |
