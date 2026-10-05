@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0748-shortest-completing-word](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
 | [0925-long-pressed-name](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0925-long-pressed-name) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -950,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -1763,5 +1765,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
