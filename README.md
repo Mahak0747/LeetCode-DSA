@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
