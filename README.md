@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -1009,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
