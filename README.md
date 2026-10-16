@@ -1135,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
@@ -1661,6 +1662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0401-binary-watch) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
