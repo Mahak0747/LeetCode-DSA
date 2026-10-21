@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-word-squares-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3799-word-squares-ii) |
 | [3803-count-residue-prefixes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3803-count-residue-prefixes) |
 | [3838-weighted-word-mapping](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3884-first-matching-character-from-both-ends) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
