@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -1159,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
