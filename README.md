@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0704-binary-search) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0733-flood-fill) |
