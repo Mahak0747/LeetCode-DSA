@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0867-transpose-matrix) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0788-rotated-digits) |
+| [0812-largest-triangle-area](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -1823,6 +1825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bracket Sequences
@@ -1836,4 +1839,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
