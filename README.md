@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0867-transpose-matrix) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0856-score-of-parentheses](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0925-long-pressed-name) |
