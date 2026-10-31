@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [0904-fruit-into-baskets](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0912-sort-an-array) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [0931-minimum-falling-path-sum](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1020-number-of-enclaves) |
@@ -1838,6 +1841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0836-rectangle-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bracket Sequences
 |  |
