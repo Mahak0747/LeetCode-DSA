@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0394-decode-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -1187,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
