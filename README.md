@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2742-painting-the-walls](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2742-painting-the-walls) |
+| [2747-count-zero-request-servers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2784-check-if-array-is-good) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2747-count-zero-request-servers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -992,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2747-count-zero-request-servers](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
