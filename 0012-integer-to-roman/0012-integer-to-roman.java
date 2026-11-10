@@ -4,8 +4,6 @@ class Solution {
         final String[] symbols = {"M", "CM", "D",  "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < values.length; ++i) {
-            if (num == 0)
-                break;
             while (num >= values[i]) {
                 sb.append(symbols[i]);
                 num -= values[i];
