@@ -615,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
@@ -1275,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2810-faulty-keyboard) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mahak0747/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
