@@ -1235,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Mahak0747/LeetCode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
