@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3975-filter-occupied-intervals) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Binary Search
 |  |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mahak0747/LeetCode-DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Matrix
 |  |
